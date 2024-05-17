@@ -4,5 +4,4 @@
 
 Module:<br>
 Status:
-![xxx](https://github.com/Bernardbyy/DebtDecoder/assets/75737130/440d48a7-ea6c-4664-bfa7-35dc8a05e801)
-
+![Status GIF](https://github.com/Bernardbyy/DebtDecoder/assets/75737130/3a5eb99e-67ad-4611-8830-1ee6b3c64721)

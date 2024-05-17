@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/Bernardbyy/DebtDecoder/assets/75737130/33161bf1-8ce4-4312-a3fb-1fd8972767a0" alt="Status Tab">
+      <img src="https://github.com/Bernardbyy/DebtDecoder/assets/75737130/33161bf1-8ce4-4312-a3fb-1fd8972767a0" alt="Status Tab" width="300" height="533">
     </td>
     <td align="center">
       <img src="https://github.com/Bernardbyy/DebtDecoder/assets/75737130/a4a72b7b-bdff-4136-b9a8-52912b5165e9" alt="Add Loans Tab">
@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/Bernardbyy/DebtDecoder/assets/75737130/423b7dc2-e91a-4e12-a4cd-f09589b285d9" alt="Individual Loan Details Tab">
+      <img src="https://github.com/Bernardbyy/DebtDecoder/assets/75737130/423b7dc2-e91a-4e12-a4cd-f09589b285d9" alt="Individual Loan Details Tab" width="300" height="533">
     </td>
     <td align="center">
       <img src="https://github.com/Bernardbyy/DebtDecoder/assets/75737130/0792b6f5-62e6-439b-9a68-af6ecf22b3df" alt="Strategies">

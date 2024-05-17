@@ -4,4 +4,5 @@
 
 Module:<br>
 Status:
-[Watch the Video](Status GIF.mp4)
+https://github.com/Bernardbyy/DebtDecoder/assets/75737130/440d48a7-ea6c-4664-bfa7-35dc8a05e801
+
